@@ -1,6 +1,6 @@
 # jasonette-ios-fork
 A fork for Ios jasonette framework
-### [Jasonette Android](https://www.jasonelle.com)
+### [Jasonette IOS](https://www.jasonelle.com)
 
 Create your own native *IOS* app with *JSON*. Then send it over `http(s)://` or `file://`.
 
